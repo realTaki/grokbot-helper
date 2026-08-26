@@ -1,0 +1,11 @@
+{
+  "name": "grokbot-helper",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@vercel/functions": "^3.7.6"
+  },
+  "devDependencies": {
+    "@types/node": "^22"
+  }
+}
